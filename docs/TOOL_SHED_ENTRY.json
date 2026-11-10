@@ -1,0 +1,13 @@
+{
+  "name": "Trackstead",
+  "repository_name": "kata-app-inspired-by-reaper-codex-dot",
+  "category": "Audio",
+  "status": "Browser prototype",
+  "description": "A local-first multitrack audio sketchbook: arrange, trim and split clips, balance tracks, capture an opt-in mic take, save projects, and export stereo WAV.",
+  "inspiration": "REAPER's linear, nondestructive multitrack workflow; original interface and assets.",
+  "screenshot": "docs/screenshots/trackstead-session.jpg",
+  "distinction": "Linear multitrack arrangement. Complements Wave Room's single-file editing and the FL-inspired pattern sequencer.",
+  "limitations": "No MIDI, plug-ins, time stretching, live input monitoring, or REAPER project compatibility. Microphone hardware not tested.",
+  "repository": "https://github.com/intrepion/kata-app-inspired-by-reaper-codex-dot",
+  "url": "https://intrepion.github.io/kata-app-inspired-by-reaper-codex-dot/"
+}

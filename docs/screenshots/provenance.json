@@ -1,0 +1,28 @@
+{
+  "captured_on": "2026-11-10",
+  "source": "http://127.0.0.1:4173/",
+  "browser": "Cloud Chrome",
+  "method": "Real full-page browser screenshots; no compositing or generated UI",
+  "microphone_access": "Not requested; armed state is UI only",
+  "screenshots": [
+    {
+      "file": "trackstead-session.jpg",
+      "width": 1165,
+      "height": 997,
+      "sha256": "263164d1bd47e6faade1c1dc85befc45e92f745a76bdd2a861a7feca191ae193"
+    },
+    {
+      "file": "trackstead-editing.jpg",
+      "width": 1165,
+      "height": 997,
+      "sha256": "854a6912d73908dd6bd0a57128fc94706fec819f0ae8a1aab16639c4b1835a14"
+    }
+  ],
+  "source_sha256": {
+    "index.html": "b18f605fc07bbac43fdc87d70d1213e1cfd0b9464956c9689d02c8c2f9f9fd09",
+    "src/app.js": "9bcfb138b6bda64daad3cdef9a803dca590ac2df0fb0388efcd6e37ec3efa424",
+    "src/audio.js": "5a658b65c26a030d78e628c1a5f93fa84341401021ce1e3c8360dbb77f9b6e6d",
+    "src/model.js": "46875c7f7c65ed687a702502246574f21e0641f18585b485f82a08888741273e",
+    "src/style.css": "2b0e36b8012ad714e1bc0a4292529e3561b7dce16c09344311d34d920a071b7a"
+  }
+}

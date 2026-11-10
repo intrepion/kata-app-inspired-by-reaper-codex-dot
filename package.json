@@ -1,0 +1,18 @@
+{
+  "name": "kata-app-inspired-by-reaper-codex-dot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Trackstead: a local-first multitrack audio sketchbook.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check server.mjs && node --check scripts/build.mjs && node --check src/app.js && node --check src/model.js && node --check src/audio.js && npm test",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
